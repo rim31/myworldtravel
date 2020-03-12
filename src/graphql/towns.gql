@@ -1,0 +1,11 @@
+
+query towns($myCountry: String!){
+        details: countries {
+          name
+        # details: countries(where: { name: { eq: "France" } }) {
+        # details: countries(where: { name: { eq: $myCountry } }) {
+          cities {
+            name
+          }
+        }
+      }

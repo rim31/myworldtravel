@@ -1,0 +1,14 @@
+ query allCities($myVaribale: Int!){
+        cities {
+          name
+          population
+          country {
+            name
+            alpha2Code
+            capital {
+              id
+              name
+            }
+          }
+        }
+      }

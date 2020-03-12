@@ -1,0 +1,23 @@
+
+query {
+  flag: countries{
+    name
+    capital{
+      name
+    	country
+      {
+        alpha2Code
+        name
+        population
+        location{
+          lat
+          long
+        }
+        currencies{
+          name
+          unitSymbols
+        }
+      }
+    }
+  }
+}
