@@ -88,7 +88,7 @@ const defaultOptions = {
   ...
 ```
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/rim31/myworldtravel/blob/master/src/assets/page4.png?raw=true)
 
 ## how to get data with graphQL
 
