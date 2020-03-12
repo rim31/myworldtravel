@@ -15,7 +15,7 @@ or
 - write some letters, it will display the country with these letters.
 Then click on a country to add it
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/rim31/myworldtravel/blob/master/src/assets/page1.png?raw=true)
 
 
 
@@ -27,14 +27,14 @@ Then click on a country to add it
 
 click on a country will redirect you to your selections
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/rim31/myworldtravel/blob/master/src/assets/page2.png?raw=true)
 
 ## Your Trip
 
 when you added a country, you have many information of the coutry ther.
 population, capital, flag, and the different towns in the select option bar
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/rim31/myworldtravel/blob/master/src/assets/page3.png?raw=true)
 
 
 
