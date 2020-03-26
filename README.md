@@ -1,5 +1,7 @@
 # Vue JS + graphQL
 
+![](/src/assets/page1.png)
+
 ## Run
 
 Please install Docker first:
